@@ -11,3 +11,6 @@ The conversion module takes the binary value as input and uses a lookup table to
 The output module is responsible for displaying the hexadecimal value on a 7-segment display. The display is connected to the FPGA and is driven using a common cathode connection. The output module uses a counter to cycle through the four digits of the hexadecimal value and display them on the 7-segment display.
 
  The use of VHDL code and FPGA technology allows for efficient and high-speed conversion, making it suitable for a wide range of applications in digital electronics and computer engineering.
+
+# Setup
+Connext the Nexys 3 and upload all the files in this repository to the board
