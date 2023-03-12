@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="806" delta="old" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 15: Syntax error near &quot;<arg fmt="%s" index="1">entity</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="580" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 22: Mismatch on label ; expected <arg fmt="%s" index="1">conv_package</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 13: Unit &lt;<arg fmt="%s" index="1">conv_package</arg>&gt; ignored due to previous errors.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 24: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="688" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 26: Package declaration <arg fmt="%s" index="1">conv_package</arg> is not yet compiled
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 28: Syntax error near &quot;<arg fmt="%s" index="1">begin</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 33: &lt;<arg fmt="%s" index="1">std_logic_vector</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 41: &lt;<arg fmt="%s" index="1">unsigned</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"C:\ProySisDigAva\Binary_to_Coded_decimal\Conv_Package.vhd" Line 46: Syntax error near &quot;<arg fmt="%s" index="1">begin</arg>&quot;.
+</msg>
+
+</messages>
+

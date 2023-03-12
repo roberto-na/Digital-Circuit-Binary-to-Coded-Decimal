@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/ProySisDigAva/Binary_to_Coded_decimal/Converter.xst" -ofn "C:/ProySisDigAva/Binary_to_Coded_decimal/Converter.syr" 
